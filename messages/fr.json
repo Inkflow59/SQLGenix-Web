@@ -1,0 +1,30 @@
+{
+  "hero": {
+    "title": "SQLGenix",
+    "description": "Une librairie PHP moderne et puissante pour la génération et la manipulation de requêtes SQL",
+    "documentation": "Documentation",
+    "quickStart": "Démarrage rapide"
+  },
+  "features": {
+    "title": "Caractéristiques principales",
+    "intuitive": {
+      "title": "Génération SQL intuitive",
+      "description": "Créez des requêtes SQL complexes de manière fluide et intuitive avec une syntaxe moderne"
+    },
+    "security": {
+      "title": "Sécurité maximale",
+      "description": "Protection intégrée contre les injections SQL et validation automatique des paramètres"
+    },
+    "performance": {
+      "title": "Performances optimales",
+      "description": "Optimisation automatique des requêtes et mise en cache intelligente des résultats"
+    }
+  },
+  "navigation": {
+    "documentation": "Documentation",
+    "examples": "Exemples"
+  },
+  "footer": {
+    "rights": "Tous droits réservés"
+  }
+}

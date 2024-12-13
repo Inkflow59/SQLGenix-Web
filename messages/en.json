@@ -1,0 +1,30 @@
+{
+  "hero": {
+    "title": "SQLGenix",
+    "description": "A modern and powerful PHP library for SQL query generation and manipulation",
+    "documentation": "Documentation",
+    "quickStart": "Quick Start"
+  },
+  "features": {
+    "title": "Key Features",
+    "intuitive": {
+      "title": "Intuitive SQL Generation",
+      "description": "Create complex SQL queries fluently and intuitively with modern syntax"
+    },
+    "security": {
+      "title": "Maximum Security",
+      "description": "Built-in protection against SQL injections and automatic parameter validation"
+    },
+    "performance": {
+      "title": "Optimal Performance",
+      "description": "Automatic query optimization and intelligent result caching"
+    }
+  },
+  "navigation": {
+    "documentation": "Documentation",
+    "examples": "Examples"
+  },
+  "footer": {
+    "rights": "All rights reserved"
+  }
+}
